@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+.center {
+    text-align: center;
+}
+.marginBottom{
+    margin-bottom: 1rem;
+}
